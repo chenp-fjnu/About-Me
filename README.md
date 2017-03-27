@@ -1,9 +1,7 @@
 # Ping Chen (10 years)
 
 # Personal Information
-Mobile: 15021849012 Email: pc45025@gmail.com
-
-Location: SHANGHAI 
+Mobile: 15021849012     Email: pc45025@gmail.com      Location: SHANGHAI 
 
 Status: On job, open for new job
 
@@ -35,7 +33,7 @@ These projects also provide trading channel to Bloomberg and TraderWeb and other
 
 As one coordinator in team, I involve communicating with BA & PM in New York and coordinating with local developers to achieve projects on time. I aslo participate in project plan, discuss requirements with BA and PM from onshore team and involve project plan, resource allocation, design, development, testing, deployment, and supervise the whole project process.
 
-Tech Stack:
+### Tech Stack:
 
 C#, WPF, ASP.NET, Entity Framework, WCF, WebAPI
 
@@ -47,7 +45,7 @@ Load Balance, Failover, Cluster, Tibco EMS
 
 
 ## 2007.07-2010.01 	Gillion 
-
+Title: Senior Software Engineer
 ### Responsibilities & Achievement:
 Participate in many projects. Have taken charge of task allocation, requirement analysis, detailed design, development, testing in the process of SDLC. 
 
