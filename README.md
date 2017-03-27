@@ -20,13 +20,13 @@ Acquainted with SDLC tools such as SVN/Git/TFS, JIRA, Jenkins/TeamCity, Sonar, u
 Knowledge of SpringCloud, PHP, Python, Docker. 
 
 # Work Experience 
-2010.01-Now 	Citigroup Service and Technology (China) Co. Ltd. 
+## 2010.01-Now 	Citigroup Service and Technology (China) Co. Ltd. 
 
 Title: AVP
 
 Subordinate: 	6 
 
-## Responsibilities & Achievement:
+### Responsibilities & Achievement:
 I am leading and developing one framework, it provides one common solution for RFQ popup management and workflow engine. For business teams, they can focus and customize their own business logic and UI look and feel. 
 
 I was participating in several Fixing Income business projects, mainly are CD (Certificate Deposit) and CP (Commercial Paper) businesses.
@@ -46,9 +46,9 @@ SQLServer
 Load Balance, Failover, Cluster, Tibco EMS
 
 
-2007.07-2010.01 	Gillion 
+## 2007.07-2010.01 	Gillion 
 
-## Responsibilities & Achievement:
+### Responsibilities & Achievement:
 Participate in many projects. Have taken charge of task allocation, requirement analysis, detailed design, development, testing in the process of SDLC. 
 
 Familiar with .NET framework design and report design by SSRS and XSLT. 
