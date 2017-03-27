@@ -27,7 +27,7 @@ Subordinate: 	6
 ### Responsibilities & Achievement:
 I am leading and developing one framework, it provides one common solution for RFQ popup management and workflow engine. For business teams, they can focus and customize their own business logic and UI look and feel. 
 
-I was participating in several Fixing Income business projects, mainly are CD (Certificate Deposit) and CP (Commercial Paper) businesses.
+I was participating in several Fixing Income business projects, mainly are CD (Certificate Deposit), CP (Commercial Paper) and eTrading businesses.
 
 These projects also provide trading channel to Bloomberg and TraderWeb and other electronic trading platforms, which improve the productivity of trading. 
 
