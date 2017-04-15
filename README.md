@@ -58,5 +58,6 @@ Act as QA, accomplish the requirement of CMM3 and CMM4.
 Act as technology leader, the main duty is arrangement, following-up, and requirement analysis and development supervise.
 
 # Educational Experience
-## 2012.09 - 2015.06 Fudan University            Software Engineering  Postgraduate Degree - Masters 
-## 2003.09 - 2007.06 Fujian Normal University    Computer and Science  Bachelor 
+2012.09 - 2015.06 Fudan University            Software Engineering  Postgraduate Degree - Masters 
+
+2003.09 - 2007.06 Fujian Normal University    Computer and Science  Bachelor 
