@@ -7,9 +7,9 @@
 了解 Azure, Data Governance, Hadoop, BlockChain, Web3.0, Machine Learning, Privacy Compute, Federated Learning, C#, WPF, Electron 等技术
 
 # 教育背景
-**2012.09 to 2015.06| 复旦大学 | 软件工程 | 硕士**
+**2012.09 to 2015.06| 复旦大学 | 软件工程 | 硕士学位**
 
-**2003.09 to 2007.07| 福建师范大学 | 计算机科学与技术 | 学士**
+**2003.09 to 2007.07| 福建师范大学 | 计算机科学与技术 | 本科 | 学士学位**
 
 # 工作经验
 **2018.04 至今 | 金融壹账通 | 软件架构师**
