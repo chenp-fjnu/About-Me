@@ -1,63 +1,50 @@
-# Ping Chen (10 years)
+Ping Chen
 
-# Personal Information
-Mobile: 15021849012     Email: pc45025@gmail.com      Location: SHANGHAI 
+Phone:15021849012
 
-Status: On job, open for new job
+Email: 11191162@qq.com
 
-# Self accessment
+# PROFILE
+IT Professional with 15+ years of experience in developing web solutions for diverse industry clients. Highly
+instrumental in all phases of the SDLC, with expertise in Java, Spring Cloud, solution architecture design,
+project management, requirement analysis, cost control etc.
 
-Be good at self-study, adapting capability and good mental quality.
+Knowledges of Elasticsearch, Kubernetes, Azure, Data Governance, Kattle, Hadoop, BlockChain, Web3.0,
+Machine Learning, Privacy compute, Federated Learning, OPENID, Auth0, webrtc, C#, WPF, Electron etc.
 
-Acquainted with C#, ASP.Net, WPF, WebAPI, WCF, Java, Apache Camel, Spring Boot, Distributed System, Micro service, CQRS, Database, Realtime mechanism. 
+# EDUCATIONAL BACKGROUND
+**2012.09 to 2015.06| Fuduan University | Software Enginerring | Master**
 
-Acquainted with project management, requirement analysis, design methods and document composing.
+**2003.09 to 2007.07| Fujian Normal University | Computer and Science | Bachelor**
 
-Acquainted with SDLC tools such as SVN/Git/TFS, JIRA, Jenkins/TeamCity, Sonar, uDeploy, Visio, MS Project etc.
+# WORK EXPERIENCE
+**2018.04 to Present | OneConnect Financial Technology Co. Ltd. | Software Architecture**
 
-Knowledge of SpringCloud, PHP, Python, Docker. 
+Lead tech team with 50 members to deliver web solutions for SME and supply chain finance industry.
+Involve solution architecture design, standardize R&D process, allocation resources between projects, cost
+control etc.
 
-# Work Experience 
-## 2010.01-Now 	Citigroup Service and Technology (China) Co. Ltd. 
+**Projects:** 
+- ADGM SME funding Platform (In progress): Azure
+- 海南省智慧金融综合服务平台 (二期In progress)：https://hnsfin.com
+- 壹链e融SaaS平台 (In progress)：https://ifaas.ocft.com
+- 中小企业融资服务平台（SaaS）: https://smeisp.ocft.com
+- 广东省中小企业融资平台：https://zxr.gdjr.gd.gov.cn
+- 香港贸易联动eTradeConnect: https://etradeconnect.net
+- 壹企链SaaS平台（供应链金融业务）
+- 超级E信SaaS平台（电子凭证业务）
 
-Title: AVP
+**2010.01 to 2018.04 | Citigroup Service and Technology(China) Co. Ltd. | AVP**
 
-Subordinate: 	6 
+Lead development team to deliver general solution for real-time popup management and work flow engine，
+which support RFQ(Request for Quote) in FICC(Shortterm CD/CP, Bond, Loan, Pricing, eTrading) businesses.
+Coordinate with BA & PM in on-site team for requirement and project plan and manage local team to achieve
+projects on time.
 
-### Responsibilities & Achievement:
-I am leading and developing one framework, it provides one common solution for RFQ popup management and workflow engine. For business teams, they can focus and customize their own business logic and UI look and feel. 
+Involve resource allocation and supervise the whole project SDLC(Design/Development/Code Review/Testing
+etc.)
 
-I was participating in several Fixing Income business projects, mainly are CD (Certificate Deposit), CP (Commercial Paper) and eTrading businesses.
+**2007.07 to 2010.01 | Gillion | Senior Software Engineer**
 
-These projects also provide trading channel to Bloomberg and TraderWeb and other electronic trading platforms, which improve the productivity of trading. 
-
-As one coordinator in team, I involve communicating with BA & PM in New York and coordinating with local developers to achieve projects on time. I aslo participate in project plan, discuss requirements with BA and PM from onshore team and involve project plan, resource allocation, design, development, testing, deployment, and supervise the whole project process.
-
-### Tech Stack:
-
-C#, WPF, ASP.NET, Entity Framework, WCF, WebAPI
-
-Java, Camel, Maven, Jetty
-
-SQLServer
-
-Load Balance, Failover, Cluster, Tibco EMS
-
-
-## 2007.07-2010.01 	Gillion 
-Title: Senior Software Engineer
-### Responsibilities & Achievement:
-Participate in many projects. Have taken charge of task allocation, requirement analysis, detailed design, development, testing in the process of SDLC. 
-
-Familiar with .NET framework design and report design by SSRS and XSLT. 
-
-Have taken charge of tasking allocation, requirement analysis, detailed design, development, testing in the process of software development. 
-
-Act as QA, accomplish the requirement of CMM3 and CMM4. 
-
-Act as technology leader, the main duty is arrangement, following-up, and requirement analysis and development supervise.
-
-# Educational Experience
-2012.09 - 2015.06 Fudan University            Software Engineering  Postgraduate Degree - Masters 
-
-2003.09 - 2007.06 Fujian Normal University    Computer and Science  Bachelor 
+Participated in many project and took charge of task allocation, requirement analysis, detail design,
+development, testing in the process of SDLC.
