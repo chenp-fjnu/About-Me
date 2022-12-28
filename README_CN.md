@@ -1,38 +1,38 @@
-# 陈平 (技术经理, 十年工作经验)
+**姓名:** 陈平 **电话:** 15021849012 **邮箱:** 11191162@qq.com
+# 简介
+超过15年IT从业经验，负责过多个大型项目的全流程软件开发周期，主要专注于架构设计，标准化研发流程管
+理，资源协调，成本控制等环节。
 
-# 基本资料
-手机: 15021849012 邮箱: pc45025@gmail.com 地址: 上海
+主要技术栈:Java, SpringCloud, Vue, Elasticsearch, Kubernetes
 
-状态: 在职，看看新机会
-# 自我评价
-具有很好的适应能力和自学能力，能够快速融入团队。 
+了解 Azure, Data Governance, Hadoop, BlockChain, Web3.0, Machine Learning, Privacy Compute, Federated
+Learning, C#, WPF, Electron 等技术
 
-熟悉C#, ASP.Net, WPF, WebAPI, WCF, Java, Apache Camel, Spring Boot, Distributed System, Micro service, CQRS, Database, Realtime mechanism. 
+# 教育背景
+**2012.09 to 2015.06| 复旦大学 | 软件工程 | 硕士**
 
-熟悉项目管理，需求分析以及设计，熟悉软件开发流程和工具(比如SVN/Git/TFS, JIRA, Jenkins/TeamCity, Sonar, uDeploy, Visio, MS Project 等等)。 
+**2003.09 to 2007.07| 福建师范大学 | 计算机科学与技术 | 学士**
 
-了解 Spring Cloud, PHP, Python, Docker。
-# 工作经历
-## 技术经理 AVP 花旗金融信息服务(中国)有限公司  （2010.01 － 至今）
-工作地点：上海 | 下属人数：6
-### 职责业绩
-负责公司内部框架设计与开发。该框架为实时交易请求提供一套公用的解决方案，具体业务可能在此框架基础上专注于业务实现和界面的自定义。
+# 工作经验
+**2018.04 至今 | 金融壹账通 | 软件架构师**
 
-之前也参与公司多个固定收益的业务项目，如大额存款单证和商业票据等。这些业务与外部的第三方交易平台（如Tradeweb，Bloomberg）进行交互，简化交易的流程并提供交易效率。 
+带领约50人技术团队，交付多个中小企业融资平台项目和供应链金融项目。协助项目完成CMMI5认证。
+主要负责架构设计，标准化研发流程管理，资源协调，成本控制等环节。
 
-负责与美国团队进行业务需求的沟通，并进行项目任务的计划和安排，能够及时完成项目安排，熟悉软件开发流程。  
+**项目列表**
+- 阿布扎比中小企业融资平台 (建设中)
+- 海南省智慧金融综合服务平台 (一期已验收，二期建设中):https://hnsfin.com
+- 壹链e融平台 (多租户SaaS):https://ifaas.ocft.com
+- 中小企业融资服务平台(多租户SaaS): https://smeisp.ocft.com
+- 广东省中小企业融资平台:https://zxr.gdjr.gd.gov.cn
+- 香港贸易联动项目: https://etradeconnect.net
+- 壹企链SaaS平台（供应链金融业务）
 
-### 应用技术: 
-C#, WPF, ASP.NET, Entity Framework, WCF, WebAPI 
+**2010.01 至 2018.04 | 花旗金融信息有限公司 | AVP**
 
-Java, Camel, Maven, Jetty 
+带领团队完成通用RFQ框架，并支持FICC业务实现多方实时交易系统。大大节省交易成本，提高交易效率。
+与国外BA、PM团队沟通需求及项目计划，管理和指导国内研发团队，按时完成既定任务。
 
-SQLServer 
+**2007.07 至 2010.01 | 吉联新软件有限公司 | 高级软件工程师**
 
-Load Balance, Failover, Cluster, Tibco EMS
-
-## 高级软件工程师  厦门吉联科技有限公司  （2007.07 － 2010.01）
-### 职责业绩
-参与多个船运项目开发设计。能够很好的完成任务安排。 
-
-协助完成CMMI4的认证。
+参与多个项目开发，同时负责任务安排，需求分析，详细设计，开发，测试等环节
