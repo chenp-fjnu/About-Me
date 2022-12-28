@@ -1,12 +1,10 @@
 **姓名:** 陈平 **电话:** 15021849012 **邮箱:** 11191162@qq.com
 # 简介
-超过15年IT从业经验，负责过多个大型项目的全流程软件开发周期，主要专注于架构设计，标准化研发流程管
-理，资源协调，成本控制等环节。
+超过15年IT从业经验，负责过多个大型项目的全流程软件开发周期，主要专注于架构设计，标准化研发流程管理，资源协调，成本控制等环节。
 
 主要技术栈:Java, SpringCloud, Vue, Elasticsearch, Kubernetes
 
-了解 Azure, Data Governance, Hadoop, BlockChain, Web3.0, Machine Learning, Privacy Compute, Federated
-Learning, C#, WPF, Electron 等技术
+了解 Azure, Data Governance, Hadoop, BlockChain, Web3.0, Machine Learning, Privacy Compute, Federated Learning, C#, WPF, Electron 等技术
 
 # 教育背景
 **2012.09 to 2015.06| 复旦大学 | 软件工程 | 硕士**
