@@ -37,8 +37,6 @@ Accomplished IT professional with over 15 years of comprehensive experience in w
 - Collaborated with Business Analysts and Project Managers to ensure project requirements and plans were met.
 - Managed local teams and resource allocation to deliver projects on time and within budget.
 
-PS: Join Citi through outsourcing company(Optimum Solutions IT (Shanghai) Ltd.) in the first three years.
-
 **Key Projects**
 * Shortterm Project: Certificate of Deposit, Commercial Paper,Treasury Bills
 * Loan Project
